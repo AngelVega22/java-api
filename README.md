@@ -43,5 +43,5 @@ URL: http://localhost:8080/api/exchange-rates?sourceCurrency=USD&targetCurrency=
 (Ajusta los valores de sourceCurrency y targetCurrency según tus necesidades)
 Método: GET
 Health Check
-URL: http://localhost:8080/api/exchange-rates/health
+URL: http://localhost:8080/api/exchange-rates/health-check
 Método: GET
